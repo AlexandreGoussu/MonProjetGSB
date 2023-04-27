@@ -1,0 +1,61 @@
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe.config
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.pdb
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\Google.Protobuf.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\ZstdNet.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\BouncyCastle.Crypto.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\System.Memory.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\System.Buffers.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Hash.xxHash.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\System.Numerics.Vectors.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.pdb
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.xml
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.AssemblyReference.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.SuggestedBindingRedirects.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe.config
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmBase.resources
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmConnexion.resources
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMenu.resources
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmPraticienListe.resources
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteAjout.resources
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CoreCompileInputs.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CopyComplete
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe.config
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.exe
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\GSB.pdb
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\Google.Protobuf.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\ZstdNet.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\System.Memory.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\System.Buffers.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\LesClasses.pdb
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\bin\Debug\MySql.Data.xml
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.AssemblyReference.cache
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe.config
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmBase.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmConnexion.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmMenu.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmPraticienListe.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmVisiteAjout.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.Properties.Resources.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.GenerateResource.cache
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.csproj.CoreCompileInputs.cache
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.exe
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.pdb
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmAjouterVisite.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmListeVisite.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmFicheMedicament.resources
+C:\Users\agous\C#\Cas GSB\Application\GSB\GSB\obj\Debug\GSB.FrmListePraticien.resources

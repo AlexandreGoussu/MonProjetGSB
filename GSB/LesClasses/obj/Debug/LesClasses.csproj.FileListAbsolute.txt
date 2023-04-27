@@ -1,0 +1,12 @@
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+\\STR-ELEVES\Classes$\DEV2\Documents en consultation\M. Verghote\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
+C:\Users\agous\C#\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\LesClasses\bin\Debug\LesClasses.pdb
+C:\Users\agous\C#\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.AssemblyReference.cache
+C:\Users\agous\C#\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.csproj.CoreCompileInputs.cache
+C:\Users\agous\C#\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.dll
+C:\Users\agous\C#\Cas GSB\Application\GSB\LesClasses\obj\Debug\LesClasses.pdb
